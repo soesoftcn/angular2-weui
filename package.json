@@ -1,0 +1,30 @@
+{
+  "name": "angular2-weui",
+  "version": "0.2.0",
+  "description": "wechatUI weui angular2",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/soesoftcn/angular2-weui.git"
+  },
+  "keywords": [
+    "wechat",
+    "ui",
+    "weui",
+    "angular2",
+    "typescript"
+  ],
+  "author": "956497829@qq.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/soesoftcn/angular2-weui/issues"
+  },
+  "homepage": "https://github.com/soesoftcn/angular2-weui#readme",
+  "dependencies": {
+    "weui": "0.4.1",
+    "angular2": "2.0.0-beta.17"
+  }
+}
